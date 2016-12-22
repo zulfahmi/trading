@@ -1,5 +1,5 @@
 function Init() {
-  return "Initialize project...";
+  return "Initializing project...";
 }
 
 function Ending() {
